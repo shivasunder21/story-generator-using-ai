@@ -1,0 +1,19 @@
+story prompt:
+1.The detective didn’t realize they were being foiled by a competing detective.
+2.You find strange, muddy footprints leading up to your front door.
+3.At your friend’s urging, you begrudgingly attend a Valentine’s Day speed dating event.
+4.A dog lover and cat lover fall in love… and must find a way to get their animals to fall in love, too.
+5.Human beings begin to find themselves growing extra limbs as global warming amps up.
+
+image prompt:
+A futuristic cyberpunk city at night, filled with neon lights, towering skyscrapers, and flying cars. The streets are wet from recent rain, 
+reflecting vibrant colors of holographic billboards. A mysterious figure in a high-tech trench coat with glowing blue eyes stands in the foreground, 
+looking over the city. Distant thunderclouds add to the dramatic atmosphere, with a mix of purple and blue tones dominating the scene. The image has 
+a cinematic, highly detailed, and slightly dystopian feel."
+
+short image prompt:
+1."A majestic dragon soaring over a misty mountain range at sunrise."
+2."A futuristic astronaut exploring a neon-lit alien city."
+3."A mystical enchanted forest with glowing mushrooms and fireflies."
+4."A cyberpunk samurai standing on a rainy rooftop with neon lights reflecting around them."
+5."A Viking warrior sailing through stormy seas towards an unknown land."
